@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Manimegalaid123/Leetcode/tree/master/0056-merge-intervals) |
 | [0228-summary-ranges](https://github.com/Manimegalaid123/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Manimegalaid123/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
