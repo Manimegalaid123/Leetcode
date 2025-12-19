@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -54,4 +56,8 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
