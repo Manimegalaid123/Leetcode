@@ -11,12 +11,14 @@
 | [0238-product-of-array-except-self](https://github.com/Manimegalaid123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -38,6 +40,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Trie
@@ -64,6 +67,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
