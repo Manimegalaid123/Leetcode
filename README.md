@@ -12,6 +12,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
@@ -23,6 +24,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
@@ -48,6 +50,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Trie
@@ -77,6 +80,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 <!---LeetCode Topics End-->
