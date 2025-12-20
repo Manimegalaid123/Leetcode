@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Manimegalaid123/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -44,6 +45,7 @@
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Manimegalaid123/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -72,6 +74,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
