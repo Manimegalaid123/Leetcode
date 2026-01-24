@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Manimegalaid123/Leetcode/tree/master/0056-merge-intervals) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manimegalaid123/Leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Manimegalaid123/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Manimegalaid123/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -38,12 +39,14 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manimegalaid123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
