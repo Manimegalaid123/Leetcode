@@ -23,6 +23,7 @@
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3668-restore-finishing-order](https://github.com/Manimegalaid123/Leetcode/tree/master/3668-restore-finishing-order) |
 ## Two Pointers
 |  |
