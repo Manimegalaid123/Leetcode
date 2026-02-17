@@ -21,6 +21,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Manimegalaid123/Leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/Manimegalaid123/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Manimegalaid123/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
