@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Manimegalaid123/Leetcode/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Manimegalaid123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0344-reverse-string) |
@@ -145,4 +147,16 @@
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Manimegalaid123/Leetcode/tree/master/0645-set-mismatch) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
