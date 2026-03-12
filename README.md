@@ -17,6 +17,7 @@
 | [0485-max-consecutive-ones](https://github.com/Manimegalaid123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Manimegalaid123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/Manimegalaid123/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Manimegalaid123/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Manimegalaid123/Leetcode/tree/master/0645-set-mismatch) |
@@ -158,9 +159,11 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manimegalaid123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manimegalaid123/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
