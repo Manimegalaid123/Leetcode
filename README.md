@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manimegalaid123/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manimegalaid123/Leetcode/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/Manimegalaid123/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Manimegalaid123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Manimegalaid123/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manimegalaid123/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manimegalaid123/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
@@ -80,6 +82,7 @@
 | ------- |
 | [0056-merge-intervals](https://github.com/Manimegalaid123/Leetcode/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Manimegalaid123/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Manimegalaid123/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manimegalaid123/Leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/Manimegalaid123/Leetcode/tree/master/0645-set-mismatch) |
