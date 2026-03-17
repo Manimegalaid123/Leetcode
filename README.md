@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manimegalaid123/Leetcode/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Manimegalaid123/Leetcode/tree/master/0056-merge-intervals) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manimegalaid123/Leetcode/tree/master/0169-majority-element) |
 | [0228-summary-ranges](https://github.com/Manimegalaid123/Leetcode/tree/master/0228-summary-ranges) |
@@ -154,6 +155,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Stack
 |  |
 | ------- |
