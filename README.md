@@ -94,6 +94,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Manimegalaid123/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Manimegalaid123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Manimegalaid123/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Manimegalaid123/Leetcode/tree/master/0242-valid-anagram) |
@@ -167,6 +168,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Manimegalaid123/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Manimegalaid123/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0503-next-greater-element-ii) |
