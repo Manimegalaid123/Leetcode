@@ -189,4 +189,5 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Manimegalaid123/Leetcode/tree/master/0175-combine-two-tables) |
+| [0197-rising-temperature](https://github.com/Manimegalaid123/Leetcode/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
