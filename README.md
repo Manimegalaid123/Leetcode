@@ -26,6 +26,7 @@
 | [0575-distribute-candies](https://github.com/Manimegalaid123/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Manimegalaid123/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Manimegalaid123/Leetcode/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Manimegalaid123/Leetcode/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manimegalaid123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Manimegalaid123/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -83,6 +84,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manimegalaid123/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Manimegalaid123/Leetcode/tree/master/0704-binary-search) |
 | [2540-minimum-common-value](https://github.com/Manimegalaid123/Leetcode/tree/master/2540-minimum-common-value) |
 ## Sorting
 |  |
