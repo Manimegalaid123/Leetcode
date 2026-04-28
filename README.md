@@ -18,6 +18,7 @@
 | [0228-summary-ranges](https://github.com/Manimegalaid123/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Manimegalaid123/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Manimegalaid123/Leetcode/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Manimegalaid123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
@@ -178,6 +179,7 @@
 | [0042-trapping-rain-water](https://github.com/Manimegalaid123/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manimegalaid123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0518-coin-change-ii) |
 ## Stack
 |  |
@@ -208,4 +210,8 @@
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/Manimegalaid123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
