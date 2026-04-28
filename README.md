@@ -116,6 +116,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Manimegalaid123/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1143-longest-common-subsequence](https://github.com/Manimegalaid123/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Manimegalaid123/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -181,6 +182,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/Manimegalaid123/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
