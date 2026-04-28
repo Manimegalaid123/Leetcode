@@ -8,20 +8,15 @@ class Solution {
         if(sum%2!=0){
             return false;
         }
-        int target=sum/2;
-        boolean arr[][]=new boolean[nums.length+1][target+1];
-        for(int i=0;i<=nums.length;i++){
-            arr[i][0]=true;
+       int t=sum/2;
+       boolean a[]=new boolean[t+1];
+       a[0]=true;
+       for(int num:nums){
+        for(int j=t;j>=num;j--){
+        a[j]=a[j]||a[j-num];
         }
-        for(int i=1;i<=nums.length;i++){
-            for(int j=1;j<=target;j++){
-                if(nums[i-1]>j){
-                    arr[i][j]=arr[i-1][j];
-                }else{
-                    arr[i][j]=arr[i-1][j] || arr[i-1][j-nums[i-1]];
-                }
-            }
-        }  return arr[nums.length][target];
+       }return a[t];
+        
            }
 
 
