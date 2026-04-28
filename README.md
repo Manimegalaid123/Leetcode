@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/Manimegalaid123/Leetcode/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0416-partition-equal-subset-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Manimegalaid123/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Manimegalaid123/Leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Manimegalaid123/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -181,6 +182,7 @@
 | [0053-maximum-subarray](https://github.com/Manimegalaid123/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manimegalaid123/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/Manimegalaid123/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
