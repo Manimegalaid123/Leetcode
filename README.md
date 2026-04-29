@@ -30,6 +30,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Manimegalaid123/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Manimegalaid123/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Manimegalaid123/Leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Manimegalaid123/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manimegalaid123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Manimegalaid123/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/Manimegalaid123/Leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -186,6 +187,7 @@
 | [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0518-coin-change-ii) |
+| [0746-min-cost-climbing-stairs](https://github.com/Manimegalaid123/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Manimegalaid123/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
