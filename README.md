@@ -86,6 +86,7 @@
 | [0680-valid-palindrome-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manimegalaid123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manimegalaid123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 | [2540-minimum-common-value](https://github.com/Manimegalaid123/Leetcode/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
@@ -129,6 +130,7 @@
 | [2053-kth-distinct-string-in-an-array](https://github.com/Manimegalaid123/Leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Manimegalaid123/Leetcode/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2337-move-pieces-to-obtain-a-string](https://github.com/Manimegalaid123/Leetcode/tree/master/2337-move-pieces-to-obtain-a-string) |
 ## Trie
 |  |
 | ------- |
