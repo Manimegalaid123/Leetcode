@@ -82,6 +82,7 @@
 | [0283-move-zeroes](https://github.com/Manimegalaid123/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Manimegalaid123/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0647-palindromic-substrings](https://github.com/Manimegalaid123/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Manimegalaid123/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Manimegalaid123/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -118,6 +119,7 @@
 | [0344-reverse-string](https://github.com/Manimegalaid123/Leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Manimegalaid123/Leetcode/tree/master/0383-ransom-note) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Manimegalaid123/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0647-palindromic-substrings](https://github.com/Manimegalaid123/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0771-jewels-and-stones](https://github.com/Manimegalaid123/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Manimegalaid123/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -191,6 +193,7 @@
 | [0322-coin-change](https://github.com/Manimegalaid123/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Manimegalaid123/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Manimegalaid123/Leetcode/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/Manimegalaid123/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Manimegalaid123/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/Manimegalaid123/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Stack
